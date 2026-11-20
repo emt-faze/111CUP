@@ -1,0 +1,47 @@
+{
+  "gate_version": "v6.1-gate-1.0",
+  "detector_version": "v0.3",
+  "generated_at": "2026-11-20T14:34:17",
+  "status": "pass_with_warnings",
+  "blocked": false,
+  "strict": true,
+  "thresholds": {
+    "contrast_min": 3.0,
+    "size_min_pt": 4.0,
+    "image_purity_min": 0.8,
+    "image_glyph_range": [
+      6,
+      200
+    ],
+    "semantic_high": 4,
+    "semantic_medium": 2
+  },
+  "files": [
+    {
+      "file": "F:\\数维杯\\2026年第十二届数维杯全国大学生数学建模挑战赛（秋季赛）赛题\\2026年第十二届数维杯全国大学生数学建模挑战赛（秋季赛）赛题\\B题\\2026_“ShuWei Cup”B_Problem.pdf",
+      "class": "pdf",
+      "sha512": "228abaf06f1225021ea7a8751bff8c1d954cc9d68e4e6f18d50686a4ddaae27c6533e6636091b0b8407e5c554aa466f024f58e453cd13c138aa6da88c8a3afe1",
+      "findings": 2,
+      "by_severity": {
+        "LOW": 2
+      },
+      "rows_scanned": null,
+      "cells_scanned": null,
+      "channel_diff": {
+        "clean_chars": 12376,
+        "raw_chars": 12384,
+        "extra_in_raw": 8,
+        "identical": false
+      }
+    }
+  ],
+  "severity_counts": {
+    "LOW": 2
+  },
+  "hashes": {
+    "files_sha512": "80cef45c5114f72d5db73297e0e07d76382952a180fa258b866b19be8c2de9d10360471f92639f7d43db3e9a14b4bfcd31a67b9987553a1efc9cebeed8ec3626",
+    "clean_sha512": "76b39ffafc5392583d4d7caec03f2ea8eebbf92102dff36cd36bc59da1fc0b83cf5995ba622140a911797989fba9fb0cc2de72d85ba9c82759e9a79d260f860a",
+    "findings_sha512": "d1139d2fd2582a20f21f42db403192d75ebaf476c4e4f74ac909041e4ccc7edf2d94bd497f5917a7d4ff6d0881bed8537e153a9cd70303c93b882099a95f2f96",
+    "report_sha512": "7d56f25382a28cab768a59498bd76a245c37794e3cbd1f38b1769a39ef06f5bdc502b6951d6181b452a7e5869e80d84ca06568c598c853339a53cb6ea51e94ab"
+  }
+}

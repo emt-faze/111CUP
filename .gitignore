@@ -1,0 +1,9 @@
+# Local copies of the official contest packet and installed tools.
+/*赛题/
+/工具/
+
+# Full problem text regenerated from the official PDF by the intake script.
+/B题工作/stage_S-1_ingest/clean_problem.md
+
+__pycache__/
+*.py[cod]
